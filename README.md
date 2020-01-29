@@ -10,3 +10,5 @@
 	public String DATABASE = "BestHotels";
 	public String USER="softEng";
 	public String PASS="yolo123";
+
+I used a university hosted git server for version controlling while developing it, and now i am just uploading it to GitHub. While i know that many security related bugs exist (like sql injection) i am not sure if i will ever patch them because it meant to be a sample aplication and not for industrial use.
